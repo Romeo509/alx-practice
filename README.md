@@ -1,1 +1,0 @@
-When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
