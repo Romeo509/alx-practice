@@ -1,0 +1,1 @@
+Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck
